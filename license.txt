@@ -1,0 +1,2 @@
+﻿Git is a distributed control system.
+I love Git.
